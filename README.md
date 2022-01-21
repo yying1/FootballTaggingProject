@@ -3,7 +3,7 @@
 ---
 #### Quicklinks:
 
-1. Where can I get the software? [Link](https://github.com/yying1/FootballTaggingProject/blob/main/README.md#L48)
+1. Where can I get the software? [Link](https://github.com/yying1/FootballTaggingProject/blob/main/README.md#set-up-requirements)
 2. How can I use this? [Link](https://github.com/yying1/FootballTaggingProject/wiki/Workflow-and-Guideline)
 ---
 
