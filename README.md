@@ -6,7 +6,7 @@ In 1 sentence: This software can be used to tag events in football (soccer) matc
 I was watching a soccer game replay back in Fall 2021 and really wanted to review the game from a different perspective. This new perspective should be data-driven and present game events across space (position on the field) and time (time mark of the game). I interned at [Hudl](https://www.hudl.com/) back in 2017 and familiarized myself with the concept of video-based analytic tools to help sports team stakeholders understand the game beyond just the video. However, most professional software licenses cost around 2000 - 5000 USD per year and are often bundled with other services and tools as packages. Since I just took a python programming course, I decided to use my winter break to develop this Football (Soccer) Tagging Software.
 
 ### Last Updated: 
-2022-01-20
+2022-01-21
 
 ### Documentation
 1. Product Road Map: [Google Doc](https://docs.google.com/document/d/1rgXGsRRUtFURbPx9At1lktV8gEviWlC9QfzNNFc0S9k/edit?usp=sharing)
@@ -26,6 +26,7 @@ Here are the child user stories from a sports analyst:
 This application was built and tested in the following environment:
 1. Windows 10 Pro Laptop with Intel Processor
 2. Python 3.10
+3. VLC Media Player [(download)](https://www.videolan.org/vlc/)
 	
 I also used the following python packages that are required to run this application:
 1. PIL, for adding pictures to the UI
@@ -40,3 +41,7 @@ You will need the following files to run this application:
 ***How to run this application?***
 1. Copy FootballTaggingApp.py and Field.jpg to the same local directory
 2. Double click on the .py file or run with your choice of Python editor
+
+### More
+
+For more information about this project and the software, plese visit the [Wiki](https://github.com/yying1/FootballTaggingProject/wiki) page!
