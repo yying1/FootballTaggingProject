@@ -1,5 +1,12 @@
 # FootballTaggingProject
 
+---
+#### Quicklinks:
+
+1. Where can I get the software? [Link](https://github.com/yying1/FootballTaggingProject/blob/main/README.md#L48)
+2. How can I use this? [Link](https://github.com/yying1/FootballTaggingProject/wiki/Workflow-and-Guideline)
+---
+
 ### Background: 
 In 1 sentence: This software can be used to tag events in football (soccer) match video and export data for analytics purposes. 
 
@@ -42,6 +49,6 @@ You will need the following files to run this application:
 1. Copy FootballTaggingApp.py and Field.jpg to the same local directory
 2. Double click on the .py file or run with your choice of Python editor
 
-### More
+### More:
 
 For more information about this project and the software, plese visit the [Wiki](https://github.com/yying1/FootballTaggingProject/wiki) page!
